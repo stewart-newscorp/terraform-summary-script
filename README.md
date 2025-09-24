@@ -18,3 +18,5 @@ Account                                            Add        Change     Destroy
 folder1/account1                            0          0          0         
 folder2/account2                            0          0          0         
 ```
+
+Important code is in `summary_proto.py`
