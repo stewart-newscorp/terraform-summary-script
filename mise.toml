@@ -1,0 +1,4 @@
+[tools]
+terraform = "1.9.7"
+terragrunt = "0.83.2"
+python = "3.12"
